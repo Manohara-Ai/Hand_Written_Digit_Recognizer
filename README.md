@@ -4,7 +4,7 @@ This project implements a Convolutional Neural Network (CNN) similar to the Tiny
 
 ## Model Overview
 
-The CNN architecture is inspired by TinyVGG and consists of multiple convolutional layers followed by ReLU activation, max-pooling, and fully connected layers. The model achieved **98.12% accuracy (on random seed and accuracy much be better/ worse on other seeds)** on both the MNIST test data and custom handwritten digits created using GIMP.
+The CNN architecture is inspired by TinyVGG and consists of multiple convolutional layers followed by ReLU activation, max-pooling, and fully connected layers. The model achieved **98.12% accuracy (on random seed and accuracy can be better/ worse on other seeds)** on both the MNIST test data and custom handwritten digits created using GIMP.
 
 ## Dataset
 
@@ -14,7 +14,7 @@ The CNN architecture is inspired by TinyVGG and consists of multiple convolution
 ## Results
 
 The model achieved:
-- **98.12% accuracy (on random seed and accuracy much be better/ worse on other seeds)** on custom handwritten digits
+- **98.12% accuracy (on random seed and accuracy can be better/ worse on other seeds)** on custom handwritten digits
 
 ## Requirements
 
