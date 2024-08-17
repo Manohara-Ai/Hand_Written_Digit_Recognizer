@@ -25,6 +25,7 @@ To run this project, you will need the following dependencies:
 - OpenCV
 - NumPy
 - Matplotlib
+NOTE: The images in MNIST dataset, on which the model are greyscale and 28x28 pixels in size. So, ensure to test on images of same size and color channels.
 
 ## Contributor
 B M Manohara @Manohara-Ai
